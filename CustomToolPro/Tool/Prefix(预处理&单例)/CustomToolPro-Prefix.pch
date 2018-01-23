@@ -1,0 +1,38 @@
+//
+//  ECSDKDemo_OC.pch
+//  ECSDKDemo_OC
+//
+//  Created by jiazy on 14/12/6.
+//  Copyright (c) 2014年 ronglian. All rights reserved.
+//
+
+#ifdef __OBJC__
+    #import "SynthesizeSingleton.h"
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+//    #import "MBProgressHUD.h"
+//    #import "DeviceDelegateHelper.h"
+//    #import "ECDeviceHeaders.h"
+//    #import "DemoGlobalClass.h"
+//    #import "CommonTools.h"
+    #import "UIView+Frame.h"
+    #import "AFNetworking.h"
+    #import "YZUserDefaultManager.h"
+    #import "WHHttpClient.h"
+    #import "YZUserDefaultManager.h"
+    #import "UIColor+YZ_APP.h"
+//    #import "UIImage+Utility"
+    #import "YZHeaderOfUI.h"
+//    #import "SVProgressHUD.h"
+    #import "WHBaseResponse.h"
+    #import "WHBaseRequest.h"
+//    #import "SDWebImageManager.h"
+//    #import "YZCustomAlertView.h"
+    #import "UIButton+ImageTitleSpacing.h"
+
+    #import "MJRefresh.h"
+    #import "MJDIYHeader.h"
+    #import "MJDIYFooter.h"
+//    #import "JKCommonModel.h"
+
+#endif
